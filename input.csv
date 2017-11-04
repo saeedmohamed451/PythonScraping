@@ -1,0 +1,35 @@
+Retailer,Location,StoreAddress,RetailerURL,Grouping,Suburb,StoreCode,ReleaseDay,ReleaseTime,__PowerAppsId__
+Aldi,CA,"72543Highway,PalmDesert,CA,92260",https://www.aldi.us,Flipp,92260,2117,Wednesday,14:00,vZhDOeXZRb4
+Aldi,IL,"1836NClybourn,Chicago,IL,60614",https://www.aldi.us,Flipp,60614,1532,Wednesday,14:00,dDSgGcUV3n4
+Aldi,TX,"13548PrestonRd,Dallas,TX,75240",https://www.aldi.us,Flipp,75240,1533,Wednesday,14:00,LrxZv24J9lI
+DollarGeneral,IL,"549EPershingRd,Chicago,IL,60653",https://www.google.com,Flipp,60653,13190,Sunday,14:00,G_YEYd599EY
+FamilyDollar,IL,"1533WChicagoAve,Chicago,IL,60642",https://www.familydollar.com,Flipp,60642,6460,,,gVJo2qq0w4k
+FoodLion,PA,"7280MasonDixenHighway,Meyersdale,PA,15552",https://www.foodlion.com,Flipp,15552,2195,Tuesday,18:00,u1XI4vVwRtY
+FoodLion,MD,"3200OldWashingtionRd,Waldorf,MD,20602",https://www.foodlion.com,Flipp,20602,1184,Tuesday,18:00,LaVAZdrP6Gg
+GiantFood,MD,"3297CrainHighwayWaldorf,MD,20603",https://giantfood.com,Flipp,20603,0304,Thursday,14:00,5A_pbVBT2ds
+Kroger,GA,"800GlenwoodAv,Atlanta,GA,30316",https://www.google.com,Flipp,10011,00672,Thursday,14:00,0JnUISBotKk
+Kroger,IL,"1475WoodlawnRd,Chicago,IL,62656",https://www.google.com,Flipp,021,00850,Thursday,14:00,s6cZuowBZpw
+Meijer,MI,"1997EBeltline,GrandRapids,MI,49525",https://www.meijer.com,Flipp,49525,158,Friday,14:00,37jHg99aEjU
+StopAndShop,NJ,"801NewarkAv,Elizabeth,NJ,07208",https://stopandshop.com,Flipp,07208,0822,Thursday,14:00,pVi3jhDEX6U
+Walgreens,IL,"2NStateSt,Chicago,IL,60602",https://www.walgreens.com,Flipp,60602,15196,,,om9NbQ4RTzY
+CVS,FL,"170Southeast3rdAve,Miami,FL,33131",https://www.cvs.com,FlippForVpn,33131,402,Thursday,14:00,z88vDNWjDEs
+RiteAid,PA,"1430BaltimoreStreet,Hanover,PA,17331",https://www.riteaid.com,FlippForVpn,17331,11027,Sunday,14:00,Wlvl98xsStg
+Walmart,AR,"205NMainStreet,Bentonville,AR,72712",https://www.walmart.com,FlippForWalmart,72712,3164,Friday,15:00,j5aam7MJBQk
+AcmeMarkets,MD,"611RailroadAvenue,Centreville,Maryland,21617",http://acmemarkets.mywebgrocer.com,Webgrocer,21617,Centreville/0AC773087,Thursday,14:00,d7mFgsO53ec
+AcmeMarkets,NY,"13NorthAvenuePleasantValley,NY,12569",http://acmemarkets.mywebgrocer.com,Webgrocer,12569,Pleasant-Valley/D6E3128197,Thursday,14:00,uVUL0cwY4Gw
+Albertsons,CA,"1500NHStreet,Lompoc,CA,93436",http://albertsons.mywebgrocer.com,Webgrocer,93436,Lompoc/0AA3128436,Tuesday,14:00,mddhxJApkeE
+Albertsons,AZ,"5040WCactusRd,Glendale,AZ,85304",http://albertsons.mywebgrocer.com,Webgrocer,85304,Glendale-51st-Ave-and-Cactus/22EF78468,,,K6_Dd1UR8pY
+Albertsons,OR,"1303NWLovejoy,Portland,OR,97209",http://plan.safeway.com,Webgrocer,97209,Portland-1303-Nw-Lovejoy/F0B974699,,,O9VpxEX8yQY
+Albertsons,CA,"1509EValleyPkwy,Escondido,CA,92027",http://albertsons.mywebgrocer.com,Webgrocer,92027,Escondido-East-Valley-Parkway-and-Rose/EDAA73642,,,QnBMT97j8jU
+Albertsons,TX,"320CasaLindaPlaza,Dallas,TX,75218",http://albertsons.mywebgrocer.com,Webgrocer,75218,Dallas-Buckner-and-Garland/3E1B78391,,,7kmy66Ch0Tw
+Albertsons,WA,"255032ndAveW,Seattle,WA,98199",http://albertsons.mywebgrocer.com,Webgrocer,98199,Seattle-Magnolia/F1A573470,,,nrrIB-KDWQc
+Safeway,MD,"10335 Reisterstown Rd,Owings Mills,MD,21117",http://plan.safeway.com,Webgrocer,21117,Owings-Mills-10335-Reisterstown-Rd-/CA9574582,Tuesday,15:00,QJeESsZ1G8c
+ShopRite,NY,"258 Main Street,New Paltz,NY,12561",http://plan.shoprite.com,Webgrocer,12561,ShopRite-of-New-Paltz/EDBF635,,,cNHnTPUaU7Y
+Bilo,SC,"4464 Devine St,Columbia,SC,29205",https://www.bi-lo.com,SEgrocerForVpn,29205,5282,,,3eRQBP1AHZY
+WinnDixie,FL,"1155 NW 11St,Miami,FL,33136",https://coupons.winndixie.com,SEgrocerForVpn,33136,,,,SB40hB0hYBI
+Frescoymas,FL,"541West49thSt,HialeahFL,33012",https://www.frescoymas.com,FlippForVpn,33012,0243,,,8iIAIutFQfA
+Harverys,GA,"1553 19 South,Leesburg,GA,31763",https://coupons.harveyssupermarkets.com,SEgrocerForVpn,31763,,,,w4ZGpufzOV8
+Target,MN,"900NicolletMall,Minneapolis,MN,55403",https://www.target.com/,StandAlone,55403,1375,,,KdYvvL1ESmE
+HEB,TX,"3301SherwoodWay,SanAngelo,TX,76901",https://www.heb.com,StandAlone,76901,52,,,AWRHeY2xeL4
+Publix,FL,"5375 N Socrum Loop Rd,Lakeland,FL,33809",http://www.publix.com/,PublixForVpn,33809,2500492,,,zEjc9PNHkP0
+Wholefoods,CA,"2001 Market St,San Francisco,CA,94114",https://www.wholefoodsmarket.com/,StandAlone,94114,322711,,,NRYoBBgsQ8g
