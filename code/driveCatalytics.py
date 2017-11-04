@@ -107,7 +107,6 @@ def main():
             if row_new[0] != 'Retailer':
                 if i == googleSheetRowNumbers[0]:
                     addr = row[0].split('"')[1]
-                    print addr
                     retailer = row_new[0]
                     location = row_new[1]
                     url = row_new[6]
