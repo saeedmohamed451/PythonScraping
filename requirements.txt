@@ -1,0 +1,21 @@
+# Parse HTML
+beautifulsoup4==4.6.0
+# Send GET and POST requests to web servers.
+requests==2.6.0
+# Interact with local directories and files.
+pathlib==1.0.1
+pathlib2==2.3.0
+# Parse XML
+lxml==3.2.1
+# Create Excel spreadsheets.
+xlwt==1.2.0
+# Create PDF files.
+pdfCropMargins==0.1.3
+reportlab==3.4.0
+# Interact with Azure storeage.
+azure==2.0.0
+azure-storage==0.34.3
+# Interact with Google spreadsheets.
+google-api-python-client==1.6.2
+# Perform python testing.
+pytest==3.2.1

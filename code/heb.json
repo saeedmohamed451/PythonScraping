@@ -1,0 +1,3360 @@
+{
+    "contents": {
+        "container": [
+            {
+                "@attributes": {
+                    "title": "Produce"
+                },
+                "content": [
+                    {
+                        "@attributes": {
+                            "title": "Blackberries",
+                            "page": "1",
+                            "author": "97¢ ea.",
+                            "article_id": "5187086",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17190128/8502099e1bd9d81f961f4c972d6df12730bb27e8-032.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "6 oz.",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17190128/8502099e1bd9d81f961f4c972d6df12730bb27e8-032.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "YOUR CHOICE! Yellow or Orange Bell Peppers or Large Mangos",
+                            "page": "1",
+                            "author": "98¢ ea.",
+                            "article_id": "5187088",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/your_choice_yellow_or_orange_bell_peppers_or_large_mangos.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/your_choice_yellow_or_orange_bell_peppers_or_large_mangos.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "YOUR CHOICE! Smitten or Honeycrisp Apples",
+                            "page": "1",
+                            "author": "$2.47 lb.",
+                            "article_id": "5187090",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/your_choice_smitten_or_honeycrisp_apples.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/your_choice_smitten_or_honeycrisp_apples.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Moon Drops Grapes",
+                            "page": "1",
+                            "author": "$1.98 lb.",
+                            "article_id": "5187092",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17190128/8502099e1bd9d81f961f4c972d6df12730bb27e8-038.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17190128/8502099e1bd9d81f961f4c972d6df12730bb27e8-038.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Cucumbers",
+                            "page": "1",
+                            "author": "48¢ ea.",
+                            "article_id": "5187094",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17190128/8502099e1bd9d81f961f4c972d6df12730bb27e8-036.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17190128/8502099e1bd9d81f961f4c972d6df12730bb27e8-036.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Extra Large Greenhouse Tomatoes",
+                            "page": "1",
+                            "author": "87¢ lb.",
+                            "article_id": "5187096",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17190128/8502099e1bd9d81f961f4c972d6df12730bb27e8-119.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17190128/8502099e1bd9d81f961f4c972d6df12730bb27e8-119.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "YOUR CHOICE! Kiwi or Small Lemons",
+                            "page": "1",
+                            "author": "3 for $1",
+                            "article_id": "5187098",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/your_choice_kiwi_or_small_lemons.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/your_choice_kiwi_or_small_lemons.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "YOUR CHOICE! Gold Potatoes or Baby Seedless Cucumbers",
+                            "page": "1",
+                            "author": "$2.89 ea.",
+                            "article_id": "5187102",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/your_choice_gold_potatoes_or_baby_seedless_cucumbers.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "Gold Potatoes 5 lbs., or Baby Seedless Cucumbers, 1 lb.",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/your_choice_gold_potatoes_or_baby_seedless_cucumbers.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "@attributes": {
+                    "title": "Organic Produce"
+                },
+                "content": [
+                    {
+                        "@attributes": {
+                            "title": "YOUR CHOICE! Organic Limes or Pineapple",
+                            "page": "1",
+                            "author": "$2.96 ea.",
+                            "article_id": "5187100",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/your_choice_organic_limes_or_pineapple.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "Organic Limes, 1 lb. or Pineapple",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/your_choice_organic_limes_or_pineapple.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "YOUR CHOICE! Organic Gala or Granny Smith Apples",
+                            "page": "1",
+                            "author": "$3.98 ea.",
+                            "article_id": "5187105",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/your_choice_organic_gala_or_granny_smith_apples.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "2 lbs.",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/your_choice_organic_gala_or_granny_smith_apples.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "@attributes": {
+                    "title": "Meat Market"
+                },
+                "content": [
+                    {
+                        "@attributes": {
+                            "title": "FRESH! H-E-B Prime 1 Boneless Beef Top Sirloin Steaks",
+                            "page": "1",
+                            "author": "$3.97 lb.",
+                            "article_id": "5187107",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17190128/8502099e1bd9d81f961f4c972d6df12730bb27e8-011.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "USDA Prime value pack",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17190128/8502099e1bd9d81f961f4c972d6df12730bb27e8-011.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "FRESH! Hill Country Fare Boneless Skinless Chicken Breast Tenders",
+                            "page": "1",
+                            "author": "$2.99 lb.",
+                            "article_id": "5187109",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17190128/8502099e1bd9d81f961f4c972d6df12730bb27e8-012.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17190128/8502099e1bd9d81f961f4c972d6df12730bb27e8-012.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "YOUR CHOICE! FRESH! Hill Country Fare Seasoned Chicken Leg Quarters or Drumsticks",
+                            "page": "1",
+                            "author": "99¢ lb.",
+                            "article_id": "5187111",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/your_choice_fresh_hill_country_fare_seasoned_chicken_leg_quarters_or_drumsticks123.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "value pack, assorted varieties",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/your_choice_fresh_hill_country_fare_seasoned_chicken_leg_quarters_or_drumsticks123.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "St. Louis Style Pork Spareribs",
+                            "page": "1",
+                            "author": "$2.49 lb.",
+                            "article_id": "5187113",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17190128/8502099e1bd9d81f961f4c972d6df12730bb27e8-019.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "previously frozen",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17190128/8502099e1bd9d81f961f4c972d6df12730bb27e8-019.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Spring Crossing Organic Grass Fed Ground Beef",
+                            "page": "1",
+                            "author": "$7.99 ea. with in-store coupon",
+                            "article_id": "5187114",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17190128/8502099e1bd9d81f961f4c972d6df12730bb27e8-018.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE $4",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "90% lean 32 oz.",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17190128/8502099e1bd9d81f961f4c972d6df12730bb27e8-018.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Eckrich Smoked Sausage",
+                            "page": "1",
+                            "author": "2 for $11",
+                            "article_id": "5187116",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/eckrich_smoked_sausage.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "30 - 42 oz. family pack natural casing or skinless",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/eckrich_smoked_sausage.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "YOUR CHOICE! FRESH! H-E-B Seasoned Boneless, Skinless Chicken Thighs or Breasts for Fajitas",
+                            "page": "1",
+                            "author": "$1.99 lb.",
+                            "article_id": "5187118",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/your_choice_fresh_heb_seasoned_boneless_skinless_chicken_thighs_or_breasts_for_fajitas_value_pack_limit2_pkgs_with_an_additional_10_purchase.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "value pack",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/your_choice_fresh_heb_seasoned_boneless_skinless_chicken_thighs_or_breasts_for_fajitas_value_pack_limit2_pkgs_with_an_additional_10_purchase.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Hormel Black Label Bacon",
+                            "page": "1",
+                            "author": "$5.48 ea. with in-store coupon",
+                            "article_id": "5187120",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17190128/8502099e1bd9d81f961f4c972d6df12730bb27e8-021.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE $1",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "16 oz., original or lower sodium",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17190128/8502099e1bd9d81f961f4c972d6df12730bb27e8-021.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "H-E-B Hayride Thick Cut Bacon",
+                            "page": "3",
+                            "author": "$7.98 ea. with in-store coupon",
+                            "article_id": "5189375",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 3",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17204494/17097148481620388203739793091-00001-050.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/17097148481620388203739793091-00001.jpg",
+                            "img_height": "1512",
+                            "img_width": "270",
+                            "footer_text": "SAVE $1",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "24 oz.",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17204494/17097148481620388203739793091-00001-050.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY H-E-B Fully Cooked Chicken Breast Fajitas or Grilled Breast Strips 26 oz. Texas size",
+                            "page": "5",
+                            "author": "GET FREE! with in-store coupon H-E-B Mi Comida® Shredded Cheese 8 oz., assorted varieties",
+                            "article_id": "5188607",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/buy_heb_fully_cooked_chicken_breast_fajitas_or_grilled_breast_strips_26_oz_texas_size_fff.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/buy_heb_fully_cooked_chicken_breast_fajitas_or_grilled_breast_strips_26_oz_texas_size_fff.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "New! Brittle or Bark",
+                            "page": "5",
+                            "author": "$5.88 ea. with in-store coupon",
+                            "article_id": "5188615",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/new_brittle_or_bark.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE $1",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "12 oz. assorted varieties",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/new_brittle_or_bark.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "@attributes": {
+                    "title": "Seafood"
+                },
+                "content": [
+                    {
+                        "@attributes": {
+                            "title": "WILD! Jumbo Texas Gulf Shrimp",
+                            "page": "1",
+                            "author": "$7.97 lb.",
+                            "article_id": "5187122",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17190128/8502099e1bd9d81f961f4c972d6df12730bb27e8-029.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE UP TO $3 PER LB.",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "16 - 25 ct. per pound previously frozen",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17190128/8502099e1bd9d81f961f4c972d6df12730bb27e8-029.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "WILD! Dungeness Crab Clusters",
+                            "page": "1",
+                            "author": "$8.97 lb.",
+                            "article_id": "5187124",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17190128/8502099e1bd9d81f961f4c972d6df12730bb27e8-028.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE UP TO $4 PER LB.",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "previously frozen",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17190128/8502099e1bd9d81f961f4c972d6df12730bb27e8-028.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "H-E-B Sushiya® California Rolls",
+                            "page": "1",
+                            "author": "SAVE $1 with in-store coupon",
+                            "article_id": "5187126",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17190128/8502099e1bd9d81f961f4c972d6df12730bb27e8-030.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "assorted varieties \n  Made FRESH Daily!",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17190128/8502099e1bd9d81f961f4c972d6df12730bb27e8-030.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "@attributes": {
+                    "title": "Household"
+                },
+                "content": [
+                    {
+                        "@attributes": {
+                            "title": "H-E-B Our Finest Bath Tissue",
+                            "page": "1",
+                            "author": "$12.74 ea. with in-store coupon Hill Country Essentials™ Bath Tissue, 24 double rolls = 48 regular rolls or 12 mega rolls = 48 regular rolls, $8.23 ea. with $1.00 off in-store coupon",
+                            "article_id": "5187128",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/heb_our_finest_bath_tissue2.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE $2",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "18 mega rolls = 72 regular rolls or 36 double rolls = 72 regular rolls",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/heb_our_finest_bath_tissue2.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "H-E-B Our Finest Paper Towels",
+                            "page": "1",
+                            "author": "$7.97 ea. with in-store coupon Hill Country Essentials™ Paper Towels, 6 big rolls = 8 regular rolls $3.96 ea. with $1.00 off in-store coupon",
+                            "article_id": "5187130",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/heb_our_finest_paper_towels234.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE $1",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "8 giant rolls = 12 regular rolls",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/heb_our_finest_paper_towels234.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Arm & Hammer Liquid, Powder or Unit Dose Laundry Detergent",
+                            "page": "1",
+                            "author": "$6.88 ea. with in-store coupon Save $1.00 with in-store coupon on Arm & Hammer Essentials Dryer Sheets, 144 ct., or Scent Boosters, 24 oz., assorted varieties",
+                            "article_id": "5187132",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/arm_hammer_liquid_laundry_detergent_powder_detergent_or_arm_hammer_unit_dose_detergent.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE $1",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "Arm & Hammer Liquid 122.5 - 150 oz., Powder 80 - 100 loads, assorted varieties or Unit Dose Laundry Detergent, 40 or 62 ct.",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/arm_hammer_liquid_laundry_detergent_powder_detergent_or_arm_hammer_unit_dose_detergent.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY two (2) Glade Everyday or Seasonal Fragrance Car Refills .11 oz., Candles, 3.4 - 4.2 oz. or Wax Melts 6 ct., assorted varieties",
+                            "page": "1",
+                            "author": "GET 3RD FREE! with in-store coupon",
+                            "article_id": "5187135",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/buy_two_2_glade_everyday_or_seasonal_fragrance_car_refills_11_oz_candles_34_42_oz_or_wax_melts_6_ct_assorted_varieties.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/buy_two_2_glade_everyday_or_seasonal_fragrance_car_refills_11_oz_candles_34_42_oz_or_wax_melts_6_ct_assorted_varieties.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "H-E-B Texas Tough® Aluminum Foil",
+                            "page": "1",
+                            "author": "SAVE $1 with in-store coupon",
+                            "article_id": "5187136",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/heb_texas_tough_aluminum_foil.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "37.5 - 200 sq. ft.",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/heb_texas_tough_aluminum_foil.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY one (1) Ocelo Scrub Sponges, 3 pk. assorted varieties",
+                            "page": "5",
+                            "author": "$3.47 ea.\nGET 2ND FREE! with in-store coupon",
+                            "article_id": "5188612",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/buy_one_1_ocelo_scrub_sponges_3_pk_assorted_varieties66.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/buy_one_1_ocelo_scrub_sponges_3_pk_assorted_varieties66.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "H-E -B Ultra Dishwashing Liquid",
+                            "page": "6",
+                            "author": "$1.97 ea.",
+                            "article_id": "5189110",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 6",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17190167/450773e2f960407057458d26d374aee0d836457c-159.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/450773e2f960407057458d26d374aee0d836457c.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "22 oz., Limited Edition Pumpkin Latte Seasonal Fragrance",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17190167/450773e2f960407057458d26d374aee0d836457c-159.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "@attributes": {
+                    "title": "Pets"
+                },
+                "content": [
+                    {
+                        "@attributes": {
+                            "title": "H-E-B Texas Pets Adult Dry Dog Food",
+                            "page": "1",
+                            "author": "$16.28 ea. with in-store coupon",
+                            "article_id": "5187139",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17190128/8502099e1bd9d81f961f4c972d6df12730bb27e8-076.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE $3",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "50 lbs.",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17190128/8502099e1bd9d81f961f4c972d6df12730bb27e8-076.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Heritage Ranch by H-E-B® Mason Jar Vanilla Maple Cinnamon Flavored Dog Treats",
+                            "page": "6",
+                            "author": "$9.99 ea.",
+                            "article_id": "5189103",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 6",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190167/heritage_ranch_by_heb_mason_jar_vanilla_maple_cinnamon_flavored_dog_treats.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/450773e2f960407057458d26d374aee0d836457c.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "25 oz.",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190167/heritage_ranch_by_heb_mason_jar_vanilla_maple_cinnamon_flavored_dog_treats.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "@attributes": {
+                    "title": "Baby"
+                },
+                "content": [
+                    {
+                        "@attributes": {
+                            "title": "BUY H-E-B Baby® Club Pack Diapers 60 - 96 ct.",
+                            "page": "1",
+                            "author": "GET FREE! with in-store coupon Baby Bum Diaper Ointment Brush",
+                            "article_id": "5187140",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/buy_heb_baby_club_pack_diapers_60_96_ct.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/buy_heb_baby_club_pack_diapers_60_96_ct.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "@attributes": {
+                    "title": "Health and Beauty"
+                },
+                "content": [
+                    {
+                        "@attributes": {
+                            "title": "Schick Women’s or Men’s Disposable Razors",
+                            "page": "1",
+                            "author": "SAVE $1.50 with in-store coupon",
+                            "article_id": "5187143",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/schick_womens_or_mens_disposable_razors_ff.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "(excludes travel/trial sizes)",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/schick_womens_or_mens_disposable_razors_ff.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "when you buy $20 of Dove Personal Care Products",
+                            "page": "1",
+                            "author": "SAVE $5 off your basket with in-store coupon",
+                            "article_id": "5187145",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 1",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/when_you_buy_20_of_dove_personal_care_products.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/8502099e1bd9d81f961f4c972d6df12730bb27e8.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "(excludes Dry Spray Antiperspirant, 3.8 oz.)",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190128/when_you_buy_20_of_dove_personal_care_products.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "when you buy $15 of Maybelline New York Cosmetic Products",
+                            "page": "5",
+                            "author": "SAVE $5 off your basket with in-store coupon",
+                            "article_id": "5188620",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/when_you_buy_15_of_maybelline_new_york_cosmetic_products.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/when_you_buy_15_of_maybelline_new_york_cosmetic_products.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY Pantene Shampoo or Conditioner 17.7 - 20.1 oz., assorted varieties (excludes travel/trial sizes)",
+                            "page": "5",
+                            "author": "GET 50% off with in-store coupon Pantene 3 Minute Miracle, 8 oz. assorted varieties",
+                            "article_id": "5188621",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/buy_pantene_shampoo_or_conditioner_177_201_oz_assorted_varieties_excludes_travel_trial_sizes.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/buy_pantene_shampoo_or_conditioner_177_201_oz_assorted_varieties_excludes_travel_trial_sizes.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "H-E-B Maxi or Ultra Thin Pads or Pantiliners",
+                            "page": "5",
+                            "author": "SAVE 75¢ with in-store coupon",
+                            "article_id": "5188625",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/heb_maxi_or_ultra_thin_pads_or_pantiliners_1.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "24 - 64 ct.",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/heb_maxi_or_ultra_thin_pads_or_pantiliners_1.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Colgate Optic White, Total, Total Advanced or Sensitive Toothpaste, 360º Manual Toothbrushes or Optic White or Total Mouthwash",
+                            "page": "5",
+                            "author": "SAVE $2 with in-store coupon",
+                            "article_id": "5188631",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/colgate_optic_white_total_total_advanced_or_sensitive_toothpaste360_manual_toothbrushes_or_optic_white_or_total_mouthwash.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "Colgate Optic White, Total, Total Advanced or Sensitive Toothpaste 2 or 4 pk., 360º Manual Toothbrushes, 2 or 3 ct., or Optic White or Total Mouthwash, 27 - 33.8 oz.",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/colgate_optic_white_total_total_advanced_or_sensitive_toothpaste360_manual_toothbrushes_or_optic_white_or_total_mouthwash.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "@attributes": {
+                    "title": "Meal Deal"
+                },
+                "content": [
+                    {
+                        "@attributes": {
+                            "title": "Buy Buitoni Family Size Pasta, 18 - 20 oz. and Buitoni Sauce, 10 - 15 oz. assorted varieties",
+                            "page": "2",
+                            "article_id": "5187764",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 2",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_buitoni_family_size_pasta_18_20_oz_and_buitoni_sauce_10_15_oz_assorted_varieties.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/4da3681f35a36d7193e2eb93c0ac6f50abbfcd99.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "get 4 items free! with in-store coupons\n   Libby’s Canned Vegetables 14.5 - 15 oz., assorted varieties\n   Nestlé Toll House Baking Mix, 17.5 - 18.5 oz. assorted varieties\n   San Pellegrino Sparkling Natural Mineral Water, 750 mL\n   H-E-B Parmesan Cheese 5 - 6 oz., assorted varieties",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_buitoni_family_size_pasta_18_20_oz_and_buitoni_sauce_10_15_oz_assorted_varieties.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "@attributes": {
+                    "title": "Combo Locos"
+                },
+                "content": [
+                    {
+                        "@attributes": {
+                            "title": "BUY H-E-B Family or Club Pack Lunchmeat, 16 - 22 oz. tub assorted varieties",
+                            "page": "2",
+                            "author": "GET FREE! with in-store coupon H-E-B Sliced Natural Cheese 8 oz., assorted varieties",
+                            "article_id": "5187765",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 2",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_heb_family_or_club_pack_lunchmeat_16_22_oz_tub_assorted_varieties.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/4da3681f35a36d7193e2eb93c0ac6f50abbfcd99.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE UP TO $2.50!",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_heb_family_or_club_pack_lunchmeat_16_22_oz_tub_assorted_varieties.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY H-E-B Premium Smoked Sausage Links value pack",
+                            "page": "2",
+                            "author": "GET FREE! with in-store coupon H-E-B Shredded Cheese 8 oz., assorted varieties",
+                            "article_id": "5187767",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 2",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_heb_premium_smoked_sausage_links_value_pack.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/4da3681f35a36d7193e2eb93c0ac6f50abbfcd99.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE UP TO $2.50!",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_heb_premium_smoked_sausage_links_value_pack.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY H-E-B Fully Cooked Seasoned Shredded Chicken, 12 oz.",
+                            "page": "2",
+                            "author": "GET FREE! with in-store coupon H-E-B Texas Style Rice 10.3 - 11 oz. assorted varieties",
+                            "article_id": "5187768",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 2",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_heb_fully_cooked_seasoned_shredded_chicken_12_oz66.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/4da3681f35a36d7193e2eb93c0ac6f50abbfcd99.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE UP TO $1.76!",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_heb_fully_cooked_seasoned_shredded_chicken_12_oz66.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY Nathan’s Franks 11 - 32 oz. assorted varieties",
+                            "page": "2",
+                            "author": "GET FREE! with in-store coupon H-E-B Bake Shop® Hot Dog Buns, 8 ct.",
+                            "article_id": "5187769",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 2",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_nathans_franks_11_32_oz_assorted_varieties66.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/4da3681f35a36d7193e2eb93c0ac6f50abbfcd99.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE UP TO $3.07!",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_nathans_franks_11_32_oz_assorted_varieties66.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY Crisco Cooking Oil 48 oz. assorted varieties",
+                            "page": "2",
+                            "author": "GET FREE! with in-store coupons\n Pillsbury Frosting 12 - 16 oz. assorted varieties\n Pillsbury Bold Cake Mix 8.25 oz. pouch assorted varieties",
+                            "article_id": "5187770",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 2",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_crisco_cooking_oil_48_oz_assorted_varieties636.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/4da3681f35a36d7193e2eb93c0ac6f50abbfcd99.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE UP TO $2.44!",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_crisco_cooking_oil_48_oz_assorted_varieties636.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY H-E-B SPARKLING Beverages 12 pk., 11.5 oz. cans assorted varieties (excludes H-E-B Sparkling Water)",
+                            "page": "2",
+                            "author": "GET FREE! with in-store coupon H-E-B Pretzels 10 - 15 oz., assorted varieties",
+                            "article_id": "5187771",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 2",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_heb_sparkling_beverages_12_pk_115_oz_cans_assorted_varieties_excludes_heb_sparkling_water56.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/4da3681f35a36d7193e2eb93c0ac6f50abbfcd99.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE UP TO $1.98!",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_heb_sparkling_beverages_12_pk_115_oz_cans_assorted_varieties_excludes_heb_sparkling_water56.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY Nature’s Own Butter Bread, 20 oz.",
+                            "page": "2",
+                            "author": "GET FREE! with in-store coupon H-E-B Made in Texas Peanut Butter, 18 oz. assorted varieties",
+                            "article_id": "5187772",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 2",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_natures_own_butter_bread_20_oz.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/4da3681f35a36d7193e2eb93c0ac6f50abbfcd99.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE UP TO $2.37!",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_natures_own_butter_bread_20_oz.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY H-E-B Select Ingredients Sugar Frosted Flakes Cereal Value Pack 42 oz.",
+                            "page": "2",
+                            "author": "GET FREE! with in-store coupon H-E-B Select Ingredients 100% Juice 64 oz., apple or orange",
+                            "article_id": "5187774",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 2",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_heb_select_ingredients_sugar_frosted_flakes_cereal_value_pack_42_oz.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/4da3681f35a36d7193e2eb93c0ac6f50abbfcd99.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE UP TO $2.98!",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_heb_select_ingredients_sugar_frosted_flakes_cereal_value_pack_42_oz.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY H-E-B Ground Coffee 34.5 - 39 oz. can assorted varieties",
+                            "page": "2",
+                            "author": "GET FREE! with in-store coupons\n H-E-B Pancake & Waffle Mix 32 oz., assorted varieties\n H-E-B Original Pancake & Waffle Syrup, 19 oz.",
+                            "article_id": "5187775",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 2",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_heb_ground_coffee_345_39_oz_can_assorted_varieties.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/4da3681f35a36d7193e2eb93c0ac6f50abbfcd99.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE UP TO $4.12!",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_heb_ground_coffee_345_39_oz_can_assorted_varieties.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY Marie’s Salad Dressing 11.5 - 12 oz., assorted varieties",
+                            "page": "2",
+                            "author": "GET FREE! with in-store coupon Monterey Mushrooms Whole or Sliced White Mushrooms, 8 oz.",
+                            "article_id": "5187776",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 2",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_maries_salad_dressing_115_12_oz_assorted_varieties.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/4da3681f35a36d7193e2eb93c0ac6f50abbfcd99.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE UP TO $1.76!",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_maries_salad_dressing_115_12_oz_assorted_varieties.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY Libman Indoor/Outdoor Angle Broom",
+                            "page": "2",
+                            "author": "$10.97 ea.\nGET FREE! with in-store coupon Hill Country Fare Disposable Vinyl or Nitrile Gloves, 50 ct.",
+                            "article_id": "5187777",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 2",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_libman_indoor.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/4da3681f35a36d7193e2eb93c0ac6f50abbfcd99.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE UP TO $5.97!",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_libman_indoor.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY Zachary Candy Tub",
+                            "page": "2",
+                            "author": "GET FREE! with in-store coupon Royal Connexion Small Kids Halloween Tote Bag",
+                            "article_id": "5187779",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 2",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_zachary_candy_tub.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/4da3681f35a36d7193e2eb93c0ac6f50abbfcd99.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE UP TO $1.00!",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_zachary_candy_tub.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY Stouffer’s Large Family Size Meal, 52.5 - 61.3 oz. assorted varieties",
+                            "page": "2",
+                            "author": "GET FREE! with in-store coupons two (2) Stouffer’s Personal Meals 8.12 - 20 oz. assorted varieties",
+                            "article_id": "5187780",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 2",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_stouffers_large_family_size_meal_525_613_oz_assorted_varieties.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/4da3681f35a36d7193e2eb93c0ac6f50abbfcd99.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE UP TO $7.96!",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_stouffers_large_family_size_meal_525_613_oz_assorted_varieties.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY two (2) Weight Watchers Novelty Ice Cream Bars, 6 - 12 ct. assorted varieties",
+                            "page": "2",
+                            "author": "GET 3rd FREE! with in-store coupon",
+                            "article_id": "5187781",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 2",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_two_2_weight_watchers_novelty_ice_cream_bars_6_12_ct_assorted_varieties.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/4da3681f35a36d7193e2eb93c0ac6f50abbfcd99.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE UP TO $4.68!",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_two_2_weight_watchers_novelty_ice_cream_bars_6_12_ct_assorted_varieties.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY Jimmy Dean Original Pancakes & Sausage Bites 46 ct. (23 oz.)",
+                            "page": "2",
+                            "author": "GET FREE! with in-store coupon State Fair Corn Dogs, 5 - 6 ct. or Mini Corn Dogs 14 - 16 ct., assorted varieties",
+                            "article_id": "5187782",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 2",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_jimmy_dean_original_pancakes_sausage_bites_46_ct_23_oz.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/4da3681f35a36d7193e2eb93c0ac6f50abbfcd99.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE UP TO $2.98!",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_jimmy_dean_original_pancakes_sausage_bites_46_ct_23_oz.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY any H-E-B Green Salad from the Deli",
+                            "page": "2",
+                            "author": "GET FREE! with in-store coupon Hill Country Fare Natural Spring Water .5 L btl.",
+                            "article_id": "5187783",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 2",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_any_heb_green_salad_from_the_deli669.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/4da3681f35a36d7193e2eb93c0ac6f50abbfcd99.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE UP TO 64¢!",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_any_heb_green_salad_from_the_deli669.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY H-E-B Fully Cooked Beef Meatloaf with Red Sauce, 16 oz.",
+                            "page": "2",
+                            "author": "GET FREE! with in-store coupons\n Simply Mashed Potatoes 24 oz. assorted varieties\n Read 3 Book assorted titles",
+                            "article_id": "5187784",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 2",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_heb_fully_cooked_beef_meatloaf_with_red_sauce_16_oz.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/4da3681f35a36d7193e2eb93c0ac6f50abbfcd99.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE UP TO $4.29!",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190148/buy_heb_fully_cooked_beef_meatloaf_with_red_sauce_16_oz.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "@attributes": {
+                    "title": "Frozen"
+                },
+                "content": [
+                    {
+                        "@attributes": {
+                            "title": "H-E-B Creamy Creations® Pumpkin Ice Cream",
+                            "page": "3",
+                            "author": "$2.58 ea.",
+                            "article_id": "5189374",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 3",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17204494/17097148481620388203739793091-00001-054.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/17097148481620388203739793091-00001.jpg",
+                            "img_height": "1512",
+                            "img_width": "270",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "1 quart",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17204494/17097148481620388203739793091-00001-054.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Taco Ria Frozen Breakfast Tacos",
+                            "page": "4",
+                            "author": "SAVE $1 with in-store coupon",
+                            "article_id": "5189419",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 4",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17204519/taco_ria_frozen_breakfast_tacos.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/17097148481620388203739793091-00010.jpg",
+                            "img_height": "1512",
+                            "img_width": "270",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "6 ct., sausage, egg & cheese or bean & cheese",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17204519/taco_ria_frozen_breakfast_tacos.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Lean Cuisine Frozen Meals",
+                            "page": "5",
+                            "author": "SAVE $3 with in-store coupon when you buy 5",
+                            "article_id": "5188584",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/lean_cuisine_frozen_meals_as.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "5.25 - 11.5 oz. assorted varieties",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/lean_cuisine_frozen_meals_as.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "H-E-B Fully Cooked Burgers",
+                            "page": "5",
+                            "author": "SAVE $1 with in-store coupon",
+                            "article_id": "5188601",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17190162/852838fdcfb9f7fb01d667b8911e95dbb93e9e14-229.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "6 ct., assorted varieties",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17190162/852838fdcfb9f7fb01d667b8911e95dbb93e9e14-229.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Green Giant Frozen Vegetables Steamers Bag",
+                            "page": "5",
+                            "author": "2 for $3 with in-store coupon when you buy 2",
+                            "article_id": "5188809",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/green_giant_frozen_vegetables_steamers_bagdx.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "11 - 12 oz. assorted varieties",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/green_giant_frozen_vegetables_steamers_bagdx.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Pillsbury Toaster Strudel Pastries or Toaster Scrambles",
+                            "page": "6",
+                            "author": "SAVE $1 with in-store coupon\nwhen you buy 2",
+                            "article_id": "5189100",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 6",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190167/pillsbury_toaster_strudel_pastries_or_toaster_scrambles.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/450773e2f960407057458d26d374aee0d836457c.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "Pillsbury Toaster Strudel Pastries, 6 ct. or Toaster Scrambles 4 ct., assorted varieties",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190167/pillsbury_toaster_strudel_pastries_or_toaster_scrambles.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "@attributes": {
+                    "title": "Grocery"
+                },
+                "content": [
+                    {
+                        "@attributes": {
+                            "title": "Central Market Pumpkin Spice Sandwich Cookies",
+                            "page": "3",
+                            "author": "$2.98 ea.",
+                            "article_id": "5189376",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 3",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17204494/17097148481620388203739793091-00001-052.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/17097148481620388203739793091-00001.jpg",
+                            "img_height": "1512",
+                            "img_width": "270",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "10.6 oz.",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17204494/17097148481620388203739793091-00001-052.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "General Mills Pumpkin Spice Cheerios Cereal",
+                            "page": "3",
+                            "author": "$2.50 ea.",
+                            "article_id": "5189377",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 3",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17204494/17097148481620388203739793091-00001-060.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/17097148481620388203739793091-00001.jpg",
+                            "img_height": "1512",
+                            "img_width": "270",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "12 oz.",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17204494/17097148481620388203739793091-00001-060.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "On the Border Tortilla Chips",
+                            "page": "4",
+                            "author": "2 for $4 with in-store coupon\nwhen you buy 2",
+                            "article_id": "5189416",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 4",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17204519/on_the_border_tortilla_chips.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/17097148481620388203739793091-00010.jpg",
+                            "img_height": "1512",
+                            "img_width": "270",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "10 - 12 oz. assorted varieties",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17204519/on_the_border_tortilla_chips.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Coca-Cola, Diet Coke or Coca-Cola Zero",
+                            "page": "4",
+                            "author": "3 for $3",
+                            "article_id": "5189420",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 4",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17204519/cocacola_diet_coke_or_cocacola_zerossa.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/17097148481620388203739793091-00010.jpg",
+                            "img_height": "1512",
+                            "img_width": "270",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "2 L btl. assorted varieties",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17204519/cocacola_diet_coke_or_cocacola_zerossa.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Coca-Cola, Diet Coke or Coca-Cola Zero",
+                            "page": "4",
+                            "author": "4 for $9",
+                            "article_id": "5189421",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 4",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17204519/cocacola_diet_coke_or_cocacola_zero33.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/17097148481620388203739793091-00010.jpg",
+                            "img_height": "1512",
+                            "img_width": "270",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "6 pk., .5 L btls. assorted varieties",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17204519/cocacola_diet_coke_or_cocacola_zero33.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Pepsi, Diet Pepsi, Dr Pepper or Big Red",
+                            "page": "4",
+                            "author": "3 for $12",
+                            "article_id": "5189422",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 4",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17204519/pepsi_diet_pepsi_dr_pepper_or_big_red1254.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/17097148481620388203739793091-00010.jpg",
+                            "img_height": "1512",
+                            "img_width": "270",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "12 pk., 12 oz. cans assorted varieties",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17204519/pepsi_diet_pepsi_dr_pepper_or_big_red1254.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Hill Country Fare Peg Bag Candy",
+                            "page": "4",
+                            "author": "5 for $5 with in-store coupon\nwhen you buy 5",
+                            "article_id": "5189424",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 4",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17204519/hill_country_fare_peg_bag_candydddd.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/17097148481620388203739793091-00010.jpg",
+                            "img_height": "1512",
+                            "img_width": "270",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "3 - 14 oz. (excludes Gummies)",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17204519/hill_country_fare_peg_bag_candydddd.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY two (2) Wrigley’s Extra, Orbit, Eclipse, Juicy Fruit, Doublemint, Big Red, Winterfresh, Spearmint Gum Multipacks, 3 pk. assorted varieties",
+                            "page": "4",
+                            "author": "GET 3rd FREE! with in-store coupon",
+                            "article_id": "5189425",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 4",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17204519/buy_two_2_wrigleys_extra_orbit_eclipse_juicy_fruit_doublemint_big_red_winterfresh_spearmint_gum_multipacks_3_pk_assorted_varieties.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/17097148481620388203739793091-00010.jpg",
+                            "img_height": "1512",
+                            "img_width": "270",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17204519/buy_two_2_wrigleys_extra_orbit_eclipse_juicy_fruit_doublemint_big_red_winterfresh_spearmint_gum_multipacks_3_pk_assorted_varieties.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "H-E-B Orange Juice",
+                            "page": "5",
+                            "author": "SAVE 25% with in-store coupon",
+                            "article_id": "5188582",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/heb_orange_juice.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "59 oz. assorted varieties",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/heb_orange_juice.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Welch’s Fruit Snacks",
+                            "page": "5",
+                            "author": "SAVE $1 with in-store coupon",
+                            "article_id": "5188586",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17190162/852838fdcfb9f7fb01d667b8911e95dbb93e9e14-013.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "36 oz. assorted varieties",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17190162/852838fdcfb9f7fb01d667b8911e95dbb93e9e14-013.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY Ken’s Salad Dressing, 24 oz. assorted varieties",
+                            "page": "5",
+                            "author": "GET FREE! with in-store coupon H-E-B Bacon Bits or Pieces, 2.5 oz.",
+                            "article_id": "5188588",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/buy_kens_salad_dressing_24_oz_assorted_varieties.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/buy_kens_salad_dressing_24_oz_assorted_varieties.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Riceland Extra Long Grain White Rice",
+                            "page": "5",
+                            "author": "SAVE $1 with in-store coupon when you buy 2",
+                            "article_id": "5188590",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/riceland_extra_long_grain_white_rice_a.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "1 lb. box or bag",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/riceland_extra_long_grain_white_rice_a.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY H-E-B Select Ingredients Sugar Frosted Flakes Cereal Value Pack 42 oz.",
+                            "page": "5",
+                            "author": "GET FREE! with in-store coupon H-E-B Select Ingredients 100% Juice, 64 oz., apple or orange",
+                            "article_id": "5188377",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/buy_heb_select_ingredients_sugar_frosted_flakes_cereal_value_pack.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "That’s up to $2.98 Free!",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/buy_heb_select_ingredients_sugar_frosted_flakes_cereal_value_pack.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Gatorade G or G2 Sport Drinks",
+                            "page": "5",
+                            "author": "2 for $5.50 with in-store coupon when you buy 2",
+                            "article_id": "5188595",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/gatorade_g_or_g2_sports_drink.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "6 pk., 12 oz. btls. assorted varieties",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/gatorade_g_or_g2_sports_drink.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY four (4) Pepsi, Diet Pepsi or Dr Pepper 6 pk., .5 L btls. or 6 pk., 7.5 oz. cans assorted varieties",
+                            "page": "5",
+                            "author": "5 for $10 with in-store coupon\nGET 5TH FREE! with in-store coupon",
+                            "article_id": "5188597",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/buy_four_4_pepsi_diet_pepsi_or_dr_pepper_6_pk_5_l_btls_or_6_pk_75_oz_cans_assorted_varieties.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/buy_four_4_pepsi_diet_pepsi_or_dr_pepper_6_pk_5_l_btls_or_6_pk_75_oz_cans_assorted_varieties.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY three (3) Armour LunchMakers 2.44 - 2.9 oz. assorted varieties",
+                            "page": "5",
+                            "author": "GET FREE! with in-store coupon Yoo-Hoo Chocolate or Strawberry Drink, 3 pk., 6.5 oz. ctns.",
+                            "article_id": "5188609",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/buy_three_3_armour_lunchmakers_244_29_oz_assorted_varieties.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/buy_three_3_armour_lunchmakers_244_29_oz_assorted_varieties.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Fresh Creations Mexicali or Mediterranean Dip",
+                            "page": "5",
+                            "author": "SAVE 75¢ with in-store coupon",
+                            "article_id": "5188613",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/fresh_creations_mexicali_or_mediterranean_dip.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "Fresh Creations Mexicali, 11 oz., or Mediterranean Dip 10 oz.",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/fresh_creations_mexicali_or_mediterranean_dip.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "when you purchase any Floral Custom Designed Gift Basket",
+                            "page": "5",
+                            "author": "SAVE $5 with in-store coupon\nLike A Boss Bouquet, $10 ea.",
+                            "article_id": "5188618",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17190162/852838fdcfb9f7fb01d667b8911e95dbb93e9e14-000.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "valued at $25 or more",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17190162/852838fdcfb9f7fb01d667b8911e95dbb93e9e14-000.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY four (4) Beech-Nut ColdPurée Organic Food Pouches 3.5 oz., assorted varieties",
+                            "page": "5",
+                            "author": "GET 5TH FREE! with in-store coupon",
+                            "article_id": "5188629",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/buy_four_4_beechnut_coldpure_organic_food_pouches_35_oz_assorted_varieties.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/buy_four_4_beechnut_coldpure_organic_food_pouches_35_oz_assorted_varieties.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY one (1) Skinner Pasta 24 oz. assorted varieties",
+                            "page": "5",
+                            "author": "GET 2ND FREE! with in-store coupon",
+                            "article_id": "5188819",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/buy_one_1_skinner_pasta_24_oz_assorted_varieties.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/buy_one_1_skinner_pasta_24_oz_assorted_varieties.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Pepsi",
+                            "page": "5",
+                            "author": "$4.96 ea.",
+                            "article_id": "5188635",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17190162/852838fdcfb9f7fb01d667b8911e95dbb93e9e14-015.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "18 pk., 12 oz., cans",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17190162/852838fdcfb9f7fb01d667b8911e95dbb93e9e14-015.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "H-E-B Pure Cane Sugar or 20 Calorie Pure Cane Sugar Soft Drinks",
+                            "page": "6",
+                            "author": "SAVE $1 with in-store coupon",
+                            "article_id": "5189097",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 6",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190167/heb_pure_cane_sugar_or_20_calorie_pure_cane_sugar_soft_drinksd.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/450773e2f960407057458d26d374aee0d836457c.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "12 pk., 12 oz. cans assorted varieties",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190167/heb_pure_cane_sugar_or_20_calorie_pure_cane_sugar_soft_drinksd.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "H-E-B Pumpkin Spice Bread or Baking Mix",
+                            "page": "6",
+                            "author": "$1.98 ea. with in-store coupon",
+                            "article_id": "5189098",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 6",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190167/heb_select_ingredients_pumpkin_spice_bread_or_baking_mix111.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/450773e2f960407057458d26d374aee0d836457c.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE $1",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "16 oz.",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190167/heb_select_ingredients_pumpkin_spice_bread_or_baking_mix111.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY Così Com’è Pumpkin Cream 9.88 oz.",
+                            "page": "6",
+                            "author": "GET FREE! with in-store coupon Adams Reserve Pumpkin Pie Dip Mix 5.5 oz.",
+                            "article_id": "5189099",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 6",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190167/buy_cos_com_pumpkin_cream_988_oz.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/450773e2f960407057458d26d374aee0d836457c.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190167/buy_cos_com_pumpkin_cream_988_oz.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Thomas’ Pumpkin Spice Bagels",
+                            "page": "6",
+                            "author": "SAVE 50¢ with in-store coupon",
+                            "article_id": "5189101",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 6",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17190167/450773e2f960407057458d26d374aee0d836457c-088.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/450773e2f960407057458d26d374aee0d836457c.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "6 ct. (Pumpkin Only)",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17190167/450773e2f960407057458d26d374aee0d836457c-088.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Barton Creek Crossing Cinnamon Apple Pie Butter Spread",
+                            "page": "6",
+                            "author": "$6.98 ea.",
+                            "article_id": "5189102",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 6",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190167/barton_creek_crossing_cinnamon_apple_pie_butter_spread.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/450773e2f960407057458d26d374aee0d836457c.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "16 oz.",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190167/barton_creek_crossing_cinnamon_apple_pie_butter_spread.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Cafe Olé Pumpkin Spice Coffee",
+                            "page": "6",
+                            "author": "$6.78 ea.",
+                            "article_id": "5189104",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 6",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190167/cafe_ol_pumpkin_spice_coffee.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/450773e2f960407057458d26d374aee0d836457c.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "12 oz. bag",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190167/cafe_ol_pumpkin_spice_coffee.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Nestlé Coffee-mate Pumpkin Spice Coffee Creamer",
+                            "page": "6",
+                            "author": "$3.18 ea.",
+                            "article_id": "5189105",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 6",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190167/nestl_coffeemate_pumpkin_spice_or_sugar_free_pumpkin_spice_refrigerated_coffee_creamer.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/450773e2f960407057458d26d374aee0d836457c.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "32 oz. assorted varieties",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190167/nestl_coffeemate_pumpkin_spice_or_sugar_free_pumpkin_spice_refrigerated_coffee_creamer.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "@attributes": {
+                    "title": "Bakery"
+                },
+                "content": [
+                    {
+                        "@attributes": {
+                            "title": "1/8 Sheet Pumpkin Tres Leches Cake",
+                            "page": "3",
+                            "author": "$13.98 ea. with in-store coupon",
+                            "article_id": "5189378",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 3",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17204494/17097148481620388203739793091-00001-038.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/17097148481620388203739793091-00001.jpg",
+                            "img_height": "1512",
+                            "img_width": "270",
+                            "footer_text": "SAVE $2",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17204494/17097148481620388203739793091-00001-038.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Pumpkin Nut Crème Cake",
+                            "page": "3",
+                            "author": "$5.88 ea. with in-store coupon",
+                            "article_id": "5189379",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 3",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17204494/17097148481620388203739793091-00001-036.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/17097148481620388203739793091-00001.jpg",
+                            "img_height": "1512",
+                            "img_width": "270",
+                            "footer_text": "SAVE $1",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "36 oz.",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17204494/17097148481620388203739793091-00001-036.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "@attributes": {
+                    "title": "Beer, Wine & Spirits"
+                },
+                "content": [
+                    {
+                        "@attributes": {
+                            "title": "Blue Moon Pumpkin or Samuel Adams Harvest Hefe Ale",
+                            "page": "3",
+                            "author": "$7.47 ea.",
+                            "article_id": "5189381",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 3",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17204494/blue_moon_pumpkin_or_samuel_adams_harvest_hefe_ale.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/17097148481620388203739793091-00001.jpg",
+                            "img_height": "1512",
+                            "img_width": "270",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "6 pk., 12 oz. btls.",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17204494/blue_moon_pumpkin_or_samuel_adams_harvest_hefe_ale.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Budweiser or Bud Light Beer",
+                            "page": "4",
+                            "author": "$25.47 ea.",
+                            "article_id": "5189423",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 4",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17204519/budweiser_or_bud_light_beer.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/17097148481620388203739793091-00010.jpg",
+                            "img_height": "1512",
+                            "img_width": "270",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "30 pk., 12 oz. cans",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17204519/budweiser_or_bud_light_beer.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "@attributes": {
+                    "title": "Deli"
+                },
+                "content": [
+                    {
+                        "@attributes": {
+                            "title": "Oscar Mayer Natural Lunchmeat",
+                            "page": "5",
+                            "author": "SAVE $1 with in-store coupon",
+                            "article_id": "5188599",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17190162/852838fdcfb9f7fb01d667b8911e95dbb93e9e14-231.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "7 - 14 oz. assorted varieties",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17190162/852838fdcfb9f7fb01d667b8911e95dbb93e9e14-231.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "BUY two (2) Hormel Natural Choice Snacks 2 oz., or REV Wraps 2.6 - 2.7 oz. assorted varieties",
+                            "page": "5",
+                            "author": "GET 3RD FREE! with in-store coupon",
+                            "article_id": "5188605",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/buy_two_2_hormel_natural_choice_snacks_2_oz_or_rev_wraps_26_27_oz_assorted_varieties.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " ",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/buy_two_2_hormel_natural_choice_snacks_2_oz_or_rev_wraps_26_27_oz_assorted_varieties.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "@attributes": {
+                    "title": "Dairy"
+                },
+                "content": [
+                    {
+                        "@attributes": {
+                            "title": "Frigo Cheese Heads String Cheese",
+                            "page": "5",
+                            "author": "SAVE $1 with in-store coupon when you buy 2",
+                            "article_id": "5188603",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/frigo_cheese_heads_string_cheese.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "24 oz., original or variety pack",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/frigo_cheese_heads_string_cheese.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "@attributes": {
+                    "title": "Pharmacy"
+                },
+                "content": [
+                    {
+                        "@attributes": {
+                            "title": "Emergen-C 1,000 mg Vitamin C Supplement",
+                            "page": "5",
+                            "author": "$9.97 ea.",
+                            "article_id": "5188623",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/17190162/852838fdcfb9f7fb01d667b8911e95dbb93e9e14-026.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "18 - 30 ct. (excludes Immune Support)",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/17190162/852838fdcfb9f7fb01d667b8911e95dbb93e9e14-026.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "Clear Care or Opti-Free Contact Lens Cleaning Solutions or Systane Moisturizing Eye Drops",
+                            "page": "5",
+                            "author": "SAVE $2 with in-store coupon",
+                            "article_id": "5188628",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/clear_care_or_optifree_contact_lens_cleaning_solutions_or_systane_moisturizing_eye_drops.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "(excludes travel/trial sizes)",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/clear_care_or_optifree_contact_lens_cleaning_solutions_or_systane_moisturizing_eye_drops.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@attributes": {
+                            "title": "H-E-B Day Time or Night Time Cold & Flu Liquid",
+                            "page": "5",
+                            "author": "$3.78 ea. with in-store coupon",
+                            "article_id": "5188633",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 5",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/heb_night_time_or_day_time_cold_flu_liquid1111.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/852838fdcfb9f7fb01d667b8911e95dbb93e9e14.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_text": "SAVE $1",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": "12 oz. \n  Compare to Vicks DayQuil/NyQuil",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190162/heb_night_time_or_day_time_cold_flu_liquid1111.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "@attributes": {
+                    "title": "Cooking Utensils/Kitchen gadgets"
+                },
+                "content": [
+                    {
+                        "@attributes": {
+                            "title": "Haven & Key™ Ceramic Pumpkin Bakeware",
+                            "page": "6",
+                            "author": "$2.97 - $14.97 ea.",
+                            "article_id": "5189106",
+                            "text_url": "fakeurl.php",
+                            "order_index": "0",
+                            "pageName": "Page 6",
+                            "grphType": "image",
+                            "grphPath": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190167/haven_key_ceramic_pumpkin_bakeware.jpg",
+                            "img_960": "https://cdn.coverstand.com/40421/442244/iphonejpg/960/450773e2f960407057458d26d374aee0d836457c.jpg",
+                            "img_height": "1512",
+                            "img_width": "612",
+                            "footer_color": "64769C",
+                            "boxfill_color": "EBEBEB",
+                            "title_color": "040404",
+                            "description_color": "000000",
+                            "price_color": "000000",
+                            "outline_color": "FFFFFF"
+                        },
+                        "text": " Large 12\" casserole offers oven to table convenience\n   9.5\" deep casserole perfect for sides and soups\n   Mini casseroles are great for mini desserts, candies, nuts and snacks\n   Covered pie dish also works for holiday quiches and cobblers\n   Measuring cup set can also be used as prep bowls, ramekins and nibble bowls\n  Open Pie Dish includes a convenient recipe on inside of dish  makes a great gift!",
+                        "media": {
+                            "image": {
+                                "@attributes": {
+                                    "type": "image",
+                                    "path": "https://cdn.coverstand.com/40421/442244/uploads/user_uploads/17190167/haven_key_ceramic_pumpkin_bakeware.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "@attributes": {
+            "type": "0",
+            "width": "100"
+        }
+    }
+}
